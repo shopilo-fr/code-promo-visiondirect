@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-visiondirect",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Vision Direct depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-vision-direct",
+    "bon-de-reduction-vision-direct",
+    "coupon-vision-direct",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/visiondirect.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-visiondirect.git"
+  }
+}
